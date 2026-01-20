@@ -1,4 +1,4 @@
-![Alt text](https://github.com/Rabenfloki/pxt-dfr1173/blob/master/icon.png?raw=true "DFR1173 Module")
+![Alt text](https://github.com/Rabenfloki/dfrobot1173/blob/master/icon.png?raw=true "DFR1173 Module")
 > Diese Seite bei [https://rabenfloki.github.io/dfrobot1173/](https://rabenfloki.github.io/dfrobot1173/) öffnen
 
 ## Als Erweiterung verwenden
