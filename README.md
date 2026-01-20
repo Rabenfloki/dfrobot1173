@@ -1,5 +1,10 @@
 ![Alt text](https://github.com/Rabenfloki/dfrobot1173/blob/master/icon.png?raw=true "DFR1173 Module")
-> Diese Seite bei [https://rabenfloki.github.io/dfrobot1173/](https://rabenfloki.github.io/dfrobot1173/) öffnen
+## MakeCode extension for Voice Prompt Module DFRobot DFR1173
+Wiring:
+Connect module GND and VCC to Micro:Bit GND and VCC. 
+Connect module RX and TX to Micro:Bit Pins. e.g. 0 and 14.
+It is easiest to use a Grove JST Cable and connect the four wires to the module as indicated above. So you only need one cable.
+In MakeCode klick on "Extensions" and search for **https://github.com/rabenfloki/dfrobot1173**.
 
 ## Als Erweiterung verwenden
 
@@ -21,4 +26,4 @@ Um dieses Repository in MakeCode zu bearbeiten.
 #### Metadaten (verwendet für Suche, Rendering)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+* for PXT/calliopemini
